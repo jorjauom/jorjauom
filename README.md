@@ -1,16 +1,14 @@
-### Hi there 👋
+# Opa, tudo bem?!
 
-<!--
-**jorjauom/jorjauom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Jorge Schlichting, moro em Curitiba/PR, tenho 22 anos e faço Ciência da Computação - atualmente no primeiro perídodo -, estou estudando para ser um FullStack Dev!
 
-Here are some ideas to get you started:
+## Quem sou!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌎 Sou formado em Relações Internacionais;
+- 🖥️ Atualmente meu enfoque é no desenvolvimento Frontend;
+- 👨‍💻 A procura do famoso e precioso estágio.
+
+## Redes sociais!
+
+- Twitter: @jorjauom.
+
